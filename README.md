@@ -184,20 +184,25 @@ Gosto de unir **código limpo**, **boa performance** e **entrega de valor real**
 ## 📊 GitHub em números
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlucas2A&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucas2A&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=devlucas2A&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlucas2A&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img height="190" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats"/>
+  <img height="190" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Linguagens mais usadas"/>
+</div>
+
+<div align="center">
+  <img height="190" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens nos commits"/>
+  <img height="190" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horário mais produtivo"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devlucas2A/devlucas2A/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
